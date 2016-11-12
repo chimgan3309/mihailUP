@@ -1,0 +1,19 @@
+{
+  "name": "mikhail",
+  "version": "1.0.0",
+  "description": "Первый блин",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chimgan3309/mihailUP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chimgan3309/mihailUP/issues"
+  },
+  "homepage": "https://github.com/chimgan3309/mihailUP#readme"
+}
